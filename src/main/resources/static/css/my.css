@@ -1,0 +1,11 @@
+
+.bodystyle {
+    filter: alpha(opacity=50);
+    -moz-opacity: 0.5;
+    -khtml-opacity: 0.5;
+    opacity: 1;
+    width: 100%;
+    position: absolute;
+    background: url("ss");
+    background-attachment: fixed;
+}
